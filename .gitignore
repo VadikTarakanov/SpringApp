@@ -1,0 +1,49 @@
+# Игнорировать файлы IDE
+.idea/
+.vscode/
+
+# Игнорировать скомпилированные файлы и директории
+target/
+bin/
+build/
+
+# Игнорировать файлы конфигурации
+application.properties
+application.yml
+
+# Игнорировать файлы журналов
+*.log
+
+# Игнорировать файлы сборки Maven
+mvnw
+mvnw.cmd
+.settings/
+.classpath
+.project
+
+# Игнорировать файлы Gradle
+.gradle/
+build/
+
+# Игнорировать файлы зависимостей
+lib/
+
+# Игнорировать временные файлы
+*~
+
+# Игнорировать файлы резервных копий
+*.bak
+
+# Игнорировать файлы конфигурации Git
+.gitignore
+.gitattributes
+
+# Игнорировать файлы конфигурации Docker
+Dockerfile
+docker-compose.yml
+
+# Игнорировать файлы локализации
+*.properties
+
+# Игнорировать файлы с данными тестов
+test-data/
